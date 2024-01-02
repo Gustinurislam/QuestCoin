@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title" : "HOME",
+        "link" : "/"
+    },
+    {
+        "id": 2,
+        "title" : "MAP",
+        "link" : "map"
+    },
+    {
+        "id": 3,
+        "title" : "TIMELINE",
+        "link" : "timeline"
+    },
+    {
+        "id": 4,
+        "title" : "QUEST",
+        "link" : "quest"
+    },
+    {
+        "id": 5,
+        "title" : "WHITEPAPER",
+        "link" : "whitepaper"
+    },
+    {
+        "id" : 1,
+        "gif" : "../../public/gif/coin.gif"
+    }
+]
